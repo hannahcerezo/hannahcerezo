@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm Hannah</h2>
 I'm a recent graduate who studied computer science. I also studied music in a past time.
 
-<h2>💞️ Some Hobbies and Interests/h2>
+<h2>💞️ Some Hobbies and Interests</h2>
 <ul>
   <li>Baking bread</li>
   <li>Powerlifting</li>
