@@ -12,7 +12,7 @@ I'm a recent graduate who studied computer science. I also studied music in a pa
  
 <h2>🌱 I'm currently learning</h2>
 <ul>
-  <li>JavaScript</li>
+  <li>Reacquanting myself with JavaScript :) </li>
 </ul>
 
 
