@@ -1,7 +1,7 @@
 <h2>👋 Hi! I'm Hannah</h2>
-I'm a recent graduate who studied computer science. I also studied music in a past time.
+I'm currently working as a math and computer science tutor. I got my Bachelor's in Music and recently received my Associates in Science.
 
-<h2>💞️ Some Hobbies and Interests</h2>
+<h2>💞️ Some Hobbies and Interests..</h2>
 <ul>
   <li>Baking bread</li>
   <li>Powerlifting</li>
@@ -10,7 +10,7 @@ I'm a recent graduate who studied computer science. I also studied music in a pa
   <li>Learning about space</li>
 </ul>
  
-<h2>🌱 I'm currently learning</h2>
+<h2>🌱 I'm currently learning..</h2>
 <ul>
   <li>Reacquanting myself with JavaScript :) </li>
   <li>SQL</li>
