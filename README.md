@@ -12,9 +12,7 @@ I'm currently working as a math and computer science tutor. I got my Bachelor's 
  
 <h2>🌱 I'm currently learning..</h2>
 <ul>
-  <li>Reacquanting myself with JavaScript :) </li>
-  <li>MongoDB</li>
-  <li>Vue</li>
+  
 </ul>
 
 
