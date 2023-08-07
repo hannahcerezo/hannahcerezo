@@ -1,5 +1,5 @@
 <h2>👋 Hi! I'm Hannah</h2>
-I'm currently working as a math and computer science tutor. I got my Bachelor's in Music and recently received my Associates in Science.
+I'm currently working as a math and computer science tutor. I have my Bachelor's in Music and recently received my Associates in Science.
 
 <h2>💞️ Some Hobbies and Interests..</h2>
 <ul>
