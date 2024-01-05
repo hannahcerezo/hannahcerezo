@@ -12,7 +12,7 @@ I'm currently working as a math and computer science tutor. I have my Bachelor's
  
 <h2>🌱 I'm currently learning..</h2>
 <ul>
-  <li>React.js</li>
+  <li>Swift and SwiftUI</li>
 </ul>
 
 
